@@ -1,0 +1,10 @@
+Jianjia
+=======
+
+Kusiv Jianjia IDE
+
+
+Jianjia来源于蒹葭的拼音，可能吧，这名字似乎是因为某个人而存在的，在广州...
+在功能上，Jianjia主要注重于程序设计，除了依据代码自动进行代码补全和分析，也有自动的基于文本正则的Jianjia Snippet.
+
+Jianjia使用Visi语言开发，使用BBuild作为其Makefile生成机制，采用jjia文件作为项目管理文件.
